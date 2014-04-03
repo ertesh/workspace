@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1396565192 source:c:\users\maciek\workspace\tdd\leapyear.cpp
+	"LeapYear.h"
+
+1396564010 c:\users\maciek\workspace\tdd\leapyear.h
+
+1396565017 source:c:\users\maciek\workspace\tdd\leapyeartest.cpp
+	"UnitTest++.h"
+	"LeapYear.h"
+
+1396564071 source:c:\users\maciek\workspace\tdd\main.cpp
+	"UnitTest++.h"
+
+1188373710 c:\users\maciek\workspace\unittest++\src\unittest++.h
+	"Config.h"
+	"Test.h"
+	"TestList.h"
+	"TestSuite.h"
+	"TestResults.h"
+	"TestMacros.h"
+	"CheckMacros.h"
+	"TestRunner.h"
+	"TimeConstraint.h"
+
+1225381116 c:\users\maciek\workspace\unittest++\src\config.h
+
+1225294688 c:\users\maciek\workspace\unittest++\src\test.h
+	"TestDetails.h"
+
+1174322056 c:\users\maciek\workspace\unittest++\src\testdetails.h
+
+1180474958 c:\users\maciek\workspace\unittest++\src\testlist.h
+
+1174322056 c:\users\maciek\workspace\unittest++\src\testsuite.h
+
+1174322056 c:\users\maciek\workspace\unittest++\src\testresults.h
+
+1225398426 c:\users\maciek\workspace\unittest++\src\testmacros.h
+	"Config.h"
+	"ExecuteTest.h"
+	"AssertException.h"
+	"TestDetails.h"
+	"MemoryOutStream.h"
+	"Posix/SignalTranslator.h"
+
+1225294688 c:\users\maciek\workspace\unittest++\src\executetest.h
+	"TestDetails.h"
+	"MemoryOutStream.h"
+	"AssertException.h"
+	"CurrentTest.h"
+	"Posix/SignalTranslator.h"
+
+1174322056 c:\users\maciek\workspace\unittest++\src\memoryoutstream.h
+	"Config.h"
+	<sstream>
+	<cstddef>
+
+1174322056 c:\users\maciek\workspace\unittest++\src\assertexception.h
+	<exception>
+
+1225294688 c:\users\maciek\workspace\unittest++\src\currenttest.h
+
+1224691002 c:\users\maciek\workspace\unittest++\src\posix\signaltranslator.h
+	<setjmp.h>
+	<signal.h>
+
+1225294688 c:\users\maciek\workspace\unittest++\src\checkmacros.h
+	"Checks.h"
+	"AssertException.h"
+	"MemoryOutStream.h"
+	"TestDetails.h"
+	"CurrentTest.h"
+
+1225380462 c:\users\maciek\workspace\unittest++\src\checks.h
+	"Config.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+
+1225294688 c:\users\maciek\workspace\unittest++\src\testrunner.h
+	"Test.h"
+	"TestList.h"
+	"CurrentTest.h"
+
+1225294688 c:\users\maciek\workspace\unittest++\src\timeconstraint.h
+	"TimeHelpers.h"
+
+1174322056 c:\users\maciek\workspace\unittest++\src\timehelpers.h
+	"Config.h"
+	"Posix/TimeHelpers.h"
+	"Win32/TimeHelpers.h"
+
+1174322056 c:\users\maciek\workspace\unittest++\src\posix\timehelpers.h
+	<sys/time.h>
+
+1225381116 c:\users\maciek\workspace\unittest++\src\win32\timehelpers.h
+	"../Config.h"
+
+1396565673 source:c:\users\maciek\workspace\tdd\utils.cpp
+	"utils.h"
+
+1396565694 c:\users\maciek\workspace\tdd\utils.h
+
+1396565801 source:c:\users\maciek\workspace\tdd\utilstest.cpp
+	"UnitTest++.h"
+	"utils.h"
+
